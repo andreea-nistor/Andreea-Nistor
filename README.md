@@ -9,16 +9,6 @@ With hands-on experience in **UiPath**, **VBA**, **LLMs**, and emerging agentic 
 
 ## 🚀 What I Do
 
-### 🔹 **RPA Development (UiPath)**
-- End-to-end automation using **UiPath Studio**, **Orchestrator**, **REFramework**
-- Dispatcher/Performer architecture for high-volume processes  
-- Computer Vision automation for virtual machines  
-- VBA-integrated automations (100+ bots deployed)  
-- ServiceNow swivel task automation  
-- Real-time alerting systems using **Twilio APIs**
-
----
-
 ## 🤖 **AI Agent Development**
 I’m actively building and experimenting with AI agents using modern frameworks and LLM tooling:
 
@@ -29,8 +19,8 @@ I’m actively building and experimenting with AI agents using modern frameworks
 - **MCP (Model Context Protocol)** for tool-augmented agents  
 - Prompt engineering & tool calling  
 - Retrieval-augmented workflows (RAG)  
-- Data extraction & document understanding  
-
+- Data extraction & document understanding
+---
 My focus is on creating agents that are:
 - autonomous  
 - reliable  
@@ -38,6 +28,14 @@ My focus is on creating agents that are:
 - easy to integrate into existing automation ecosystems  
 
 ---
+  
+### 🔹 **RPA Development (UiPath)**
+- End-to-end automation using **UiPath Studio**, **Orchestrator**, **REFramework**
+- Dispatcher/Performer architecture for high-volume processes  
+- Computer Vision automation for virtual machines  
+- VBA-integrated automations (100+ bots deployed)  
+- ServiceNow swivel task automation  
+- Real-time alerting systems using **Twilio APIs**
 
 ## 🛠️ Tech Stack
 
